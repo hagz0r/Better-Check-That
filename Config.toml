@@ -2,7 +2,4 @@
 apikey = "e6b78712f066891cdb3e32f471df706a48468334efebdb0120fe37d61aad9e1d"
 
 [notifications]
-audio = "ON"
-
-[file_locking]
-lock = "OFF"
+audio = true
