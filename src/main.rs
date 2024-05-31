@@ -1,3 +1,5 @@
+#[cfg(target_os="windows")]
+
 use std::collections::HashMap;
 use std::fs::File;
 use std::io::Read;
@@ -126,7 +128,7 @@ impl Notification {
 					let positives = report["positives"].as_i64().unwrap();
 					if positives != 0 {
 						// if &self.audio {
-						// Play audio 
+						// Play audio
 						// ...
 						// }
 						let permalink = report["permalink"].as_str().unwrap();
