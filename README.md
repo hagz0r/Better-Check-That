@@ -6,8 +6,6 @@ Better Check That is a powerful and easy-to-use tool that scans files on externa
 accessed. It ensures that your computer and data are protected from potential threats, giving you peace of mind when
 using external storage devices.
 
-# NOT READY FOR USE
-
 
 ## Features
 
