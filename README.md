@@ -1,8 +1,8 @@
-# Better Check That
+# btc
 
 
 
-Better Check That is a powerful and easy-to-use tool that scans files on external drives for malware before they are
+btc stands for Better Check That is a powerful and easy-to-use tool that scans files on external drives for malware before they are
 accessed. It ensures that your computer and data are protected from potential threats, giving you peace of mind when
 using external storage devices.
 
